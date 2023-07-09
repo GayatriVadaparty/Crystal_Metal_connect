@@ -1,4 +1,4 @@
-# Crystalline Metals API
+# Crystal_Metal_API
 
 The Crystalline Metals API is a local API that provides access to properties of different crystalline metals. It retrieves the data by scraping relevant information from Wikipedia pages. This API allows users to retrieve up-to-date and accurate details about the atomic properties, physical characteristics, and other properties of various crystalline metals.
 
